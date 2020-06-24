@@ -1,6 +1,6 @@
 # Software Design Lab
 
-Group 1
+Group 1 - Lab Report Compilations
 
 Hannah Mae Antaran
 
